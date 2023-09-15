@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan UÇARCI</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [kaanucarci.com](kaanucarci.com)
 
