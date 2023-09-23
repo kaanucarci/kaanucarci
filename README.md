@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [kaanucarci.com](kaanucarci.com)
+- 👨‍💻 All of my projects are available at [[kaanucarci.com](https://www.kaanucarci.com/)]
 
 - 💬 Ask me about **Java, PHP**
 
