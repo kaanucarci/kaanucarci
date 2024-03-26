@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaan UÇARCI</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **ASP.Net Core**
 
 - 👨‍💻 All of my projects are available at [[kaanucarci.com](https://www.kaanucarci.com/)]
 
-- 💬 Ask me about **Java, PHP**
+- 💬 Ask me about **.Net Core, PHP**
 
 - 📫 How to reach me **info@kaanucarci.com**
 
