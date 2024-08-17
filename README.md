@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.Net Core**
 
-- 👨‍💻 All of my projects are available at [[kaanucarci.com](https://www.kaanucarci.com/)]
+<!--- 👨‍💻 All of my projects are available at [[kaanucarci.com](https://www.kaanucarci.com/)]-->
 
 - 💬 Ask me about **.Net Core, PHP**
 
