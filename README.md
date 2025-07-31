@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan UÇARCI</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🌱 I’m currently learning **ASP.Net Core**
+- 🌱 I’m currently learning **React.js**
 
 <!--- 👨‍💻 All of my projects are available at [[kaanucarci.com](https://www.kaanucarci.com/)]-->
 
