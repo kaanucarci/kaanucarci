@@ -28,10 +28,10 @@ Passionate about crafting robust, high-performance applications with a focus on 
 ## 🌟 Featured Projects
 
 - [**FinCore**](https://github.com/kaanucarci/FinCore)  
-  *A sophisticated financial management platform built with Laravel, demonstrating advanced API design and secure, scalable architecture.*
+  *FinCore is a modular, multi-layered RESTful API developed with ASP.NET Core 8 (N-Tier Architecture), designed to support personal finance tracking operations such as budget planning, daily expense logging, and savings management.*
 
 - [**laravel-advanced-api**](https://github.com/kaanucarci/laravel-advanced-api)  
-  *A showcase of modern Laravel API development practices, featuring authentication, validation, and performance-focused design.*
+  *A showcase of modern Laravel API development practices, it includes secure authentication, Redis caching, Laravel Octane with RoadRunner for blazing-fast performance, and automated testing for code reliability.*
 
 ---
 
