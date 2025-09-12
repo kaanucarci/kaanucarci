@@ -35,11 +35,6 @@ Passionate about crafting robust, high-performance applications with a focus on 
 
 ---
 
-## 🏆 Notable Activity
-- Active on [LeetCode](https://leetcode.com/u/kaanucarci/) — always sharpening problem-solving skills!
-
----
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kaanucarci/)
@@ -54,11 +49,7 @@ When I'm not coding, you’ll find me:
 - Running, hiking, or enjoying a football match
 - Boxing or keeping fit with various workouts
 - Exploring new tech or catching up on the latest in software trends
-
----
-
-> “Stay hungry, stay foolish.” — Steve Jobs
-
+- 
 ---
 
 Thanks for visiting! Let’s build something amazing together 🚀
