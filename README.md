@@ -49,7 +49,7 @@ When I'm not coding, you’ll find me:
 - Running, hiking, or enjoying a football match
 - Boxing or keeping fit with various workouts
 - Exploring new tech or catching up on the latest in software trends
-- 
+
 ---
 
 Thanks for visiting! Let’s build something amazing together 🚀
