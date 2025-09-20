@@ -2,16 +2,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding" height="180">
 </p>
 
-<h1 align="center">Hi there, I'm Kaan Ucarci! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Kaan+U%C3%A7arc%C4%B1+%F0%9F%91%8B;Full-Stack+Developer+%7C+Laravel+.NET+Core+React;Turning+ideas+into+impactful+apps" alt="Typing animation"/>
+</p>
+
 
 <p align="center">
   <b>🚀 Full Stack Engineer | 3+ Years of Experience 🚀</b>
 </p>
-
-<p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=435&lines=Code.+Create.+Repeat."/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
