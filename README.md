@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Kaan+U%C3%A7arc%C4%B1+%F0%9F%91%8B;Full-Stack+Developer+%7C+Laravel+.NET+Core+React;Turning+ideas+into+impactful+apps" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=003140&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Kaan+U%C3%A7arc%C4%B1+%F0%9F%91%8B;Full-Stack+Developer+%7C+Laravel+.NET+Core+React;Turning+ideas+into+impactful+apps" alt="Typing animation"/>
 </p>
 
 
@@ -71,5 +71,5 @@ When I'm not coding, you’ll find me:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Let's+Code+Together!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=003140&center=true&vCenter=true&width=900&lines=Let's+Code+Together!" alt="Typing animation"/>
 </p>
