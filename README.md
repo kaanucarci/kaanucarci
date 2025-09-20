@@ -71,5 +71,5 @@ When I'm not coding, you’ll find me:
 ---
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F78C6C&width=435&lines=Let's+Code+Together!;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Let's Code Together!" alt="Typing animation"/>
 </p>
