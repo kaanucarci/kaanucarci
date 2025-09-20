@@ -52,10 +52,11 @@
 
 ## 🔗 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/kaanucarci/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/KaanUcarci"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/kaanucarci/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<p align="center">
+  <a href="https://kaanucarci.com/"><img src="https://img.shields.io/badge/-Portfolio-222?style=for-the-badge&logo=firefox&logoColor=FF6F61"></a>
+  <a href="https://www.linkedin.com/in/kaanucarci/"><img src="https://img.shields.io/badge/-LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href="https://leetcode.com/u/kaanucarci/"><img src="https://img.shields.io/badge/-LeetCode-222?style=for-the-badge&logo=leetcode&logoColor=F89F1B"></a>
+  <a href="https://github.com/kaanucarci" target="_blank"><img src="https://img.shields.io/github/followers/kaanucarci?label=Follow%20Me&style=for-the-badge&color=222" /></a>
 </p>
 
 ---
