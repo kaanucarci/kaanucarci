@@ -10,7 +10,6 @@
 <p align="center">
   <b>🚀 Full Stack Engineer | 3+ Years of Experience 🚀</b>
 </p>
----
 
 ## 👨‍💻 About Me
 
