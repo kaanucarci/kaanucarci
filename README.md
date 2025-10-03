@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Engineer with 3+ years in software development
-- 🧑‍💼 Strong background in both  **backend** & **frontend** processes (Focus on backend)
-- 🛠️ Focused on object-oriented programming and modern web technologies
-- 🤝 Collaborative, responsible, and always eager to learn and grow
+-  Full Stack Engineer with 3+ years in software development
+-  Strong background in both  **backend** & **frontend** processes (Focus on backend)
+-  Focused on object-oriented programming and modern web technologies
+-  Collaborative, responsible, and always eager to learn and grow
 
 ### <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="24"> Tech Stack & Skills
 
