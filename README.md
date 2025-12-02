@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
--  Full Stack Engineer with 3+ years in software development
+-  Full Stack Engineer with 4+ years in software development
 -  Strong background in both  **backend** & **frontend** processes (Focus on backend)
 -  Focused on object-oriented programming and modern web technologies
 -  Collaborative, responsible, and always eager to learn and grow
